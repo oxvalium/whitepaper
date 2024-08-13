@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Holorium Network ?](README.md)
+* [What is Oxvalium Network ?](README.md)
 * [Autonomus Smart Contract](autonomus-smart-contract.md)
 
 ## Utility
